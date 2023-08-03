@@ -6,7 +6,7 @@
 
 Through six years of research, the [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling) team has identified four key metrics that indicate the performance of software delivery. Four Keys allows you to collect data from your development environment (such as GitHub or GitLab) and compiles it into a dashboard displaying these key metrics.
 
-These four key metrics are:
+These four key metrics are :
 
 *   **Deployment Frequency**
 *   **Lead Time for Changes**
